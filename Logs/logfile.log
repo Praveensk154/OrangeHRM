@@ -1,0 +1,12 @@
+2023-06-25 09:53:09,522 : INFO : Test_Url_Login : test_url : Opening Browser
+2023-06-25 09:53:12,523 : INFO : Test_Url_Login : test_url : Opening Url
+2023-06-25 09:53:12,524 : INFO : Test_Url_Login : test_url : Printing Page Title
+2023-06-25 09:53:12,535 : INFO : Test_Url_Login : test_url : Checking Page Title
+2023-06-25 09:53:12,544 : INFO : Test_Url_Login : test_url : test_url is passed
+2023-06-25 09:53:15,322 : INFO : Test_Url_Login : test_url : test_url is Completed
+2023-06-25 09:53:30,861 : INFO : Test_Url_Login : test_login : Opening Browser
+2023-06-25 09:53:30,862 : INFO : Test_Url_Login : test_login : Going to Url
+2023-06-25 09:53:30,862 : INFO : Test_Url_Login : test_login : Enter Username
+2023-06-25 09:53:31,757 : INFO : Test_Url_Login : test_login : Enter Password
+2023-06-25 09:53:31,809 : INFO : Test_Url_Login : test_login : Click Login Button
+2023-06-25 09:53:44,207 : INFO : Test_Url_Login : test_login : test_login is failed
